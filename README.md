@@ -9,7 +9,7 @@ cd TravelTrucks
 ```
 
 ```
-npm -i
+npm install
 ```
 
 ```
